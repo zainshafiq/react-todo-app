@@ -20,7 +20,7 @@ class LearningComponent extends Component {
   render() {
     return (
       <div className="LearningComponent">
-        Hello World! HI THERE
+        Hello World!!
         <FirstComponent></FirstComponent>
         <SecondComponent/>
         <ThirdComponent></ThirdComponent>

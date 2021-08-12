@@ -15,7 +15,7 @@ class Counter extends Component {
         )
     }
 
-    //Function (No need extend Component)
+    //Function inside a class (used to be outside)
     increment() {
         console.log('increment');
     }   
